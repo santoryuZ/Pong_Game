@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+.venv/Lib
+# PyCharm settings
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
